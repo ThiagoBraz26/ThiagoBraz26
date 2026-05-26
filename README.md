@@ -42,9 +42,9 @@ Segurança de software — análise de binários, vulnerabilidades, sistemas de 
 ---
 
 <div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoBraz26&theme=github_dark)
-
+  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoBraz26&theme=transparent)
+  
 </div>
 
 ---
