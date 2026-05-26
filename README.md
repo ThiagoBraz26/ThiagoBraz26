@@ -50,5 +50,5 @@ Segurança de software — análise de binários, vulnerabilidades, sistemas de 
 ---
 
 <div align="center">
-<sub>ainda em construção — assim como o dev por trás disso.</sub>
+  <sub>commit inicial. o resto é devir.</sub>
 </div>
