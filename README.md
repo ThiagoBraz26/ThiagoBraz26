@@ -13,6 +13,7 @@ Estudante de Engenharia de Software — construindo coisas enquanto entendo como
 ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat&logo=livewire&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 </div>
@@ -20,11 +21,13 @@ Estudante de Engenharia de Software — construindo coisas enquanto entendo como
 ---
 
 ## onde quero chegar
-
-Segurança de software — análise de binários, vulnerabilidades, sistemas de baixo nível.
+Segurança de aplicações — AppSec, DevSecOps e integração de segurança no ciclo de desenvolvimento.
 
 <div align="center">
 
+![AppSec](https://img.shields.io/badge/AppSec-FF6B35?style=flat&logoColor=white)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-4A90D9?style=flat&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
