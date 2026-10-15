@@ -2,7 +2,7 @@
 
 Estudante de Engenharia de Software, aprendendo na prática e construindo projetos para entender como as coisas funcionam por baixo dos panos.
 
----
+<br>
 
 ## Atualmente
 
@@ -11,7 +11,7 @@ Estudante de Engenharia de Software, aprendendo na prática e construindo projet
 - Estudando segurança de aplicações e práticas defensivas
 - Explorando Rust e Go por curiosidade
 
----
+<br>
 
 ## Tecnologias com que trabalho
 
@@ -26,7 +26,7 @@ Estudante de Engenharia de Software, aprendendo na prática e construindo projet
 
 </div>
 
----
+<br>
 
 ## Em aprendizado
 
@@ -41,6 +41,8 @@ Meu interesse é segurança de aplicações (AppSec): entender como vulnerabilid
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 
 </div>
+
+<br>
 
 ---
 
